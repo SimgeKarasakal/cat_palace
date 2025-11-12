@@ -18,3 +18,9 @@ body {
   text-align: center;
   margin: 0;
 }
+
+.intro {
+  background-color: antiquewhite;
+  color: black;
+  margin: 48px
+}
