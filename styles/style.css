@@ -22,5 +22,6 @@ body {
 .intro {
   background-color: antiquewhite;
   color: black;
-  margin: 48px
+  padding: 48px;
+  font-size: large;
 }
